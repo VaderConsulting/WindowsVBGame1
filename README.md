@@ -14,6 +14,10 @@ Visual Studio 2008 VB.NET WinForms host that starts a stock XNA 3.1 Game1 on But
 
 Open `WindowsVBGame1.sln` in Visual Studio 2008 or later (solution format 10.00) with XNA Game Studio 3.1 installed. The project references `Microsoft.Xna.Framework` and `Microsoft.Xna.Framework.Game` version 3.1.0.0 and targets .NET Framework 3.5.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 3.5
+
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `WindowsVBGame1`. Visual Studio template defaults: `AssemblyTitle` / `AssemblyProduct` WindowsGame1, `AssemblyCompany` Microsoft, `AssemblyCopyright` Copyright © Microsoft 2009, `AssemblyVersion` 1.0.0.0. `RootNamespace` is `WindowsGame1`; `AssemblyName` is `WindowsVBGame1`. Startup object is `WindowsGame1.My.MyApplication` with main form `Form1`. Build artifacts show it began as a Temporary Projects `WindowsGame1` and was later saved as `WindowsVBGame1`.
