@@ -20,7 +20,7 @@ Open `WindowsVBGame1.sln` in Visual Studio 2008 or later (solution format 10.00)
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `WindowsVBGame1`. Visual Studio template defaults: `AssemblyTitle` / `AssemblyProduct` WindowsGame1, `AssemblyCompany` Microsoft, `AssemblyCopyright` Copyright © Microsoft 2009, `AssemblyVersion` 1.0.0.0. `RootNamespace` is `WindowsGame1`; `AssemblyName` is `WindowsVBGame1`. Startup object is `WindowsGame1.My.MyApplication` with main form `Form1`. Build artifacts show it began as a Temporary Projects `WindowsGame1` and was later saved as `WindowsVBGame1`.
+Working copy from my Historical Dev folder `WindowsVBGame1`. Visual Studio template defaults: `AssemblyTitle` / `AssemblyProduct` WindowsGame1, `AssemblyCompany` Microsoft, `AssemblyCopyright` Copyright © Microsoft 2009, `AssemblyVersion` 1.0.0.0. `RootNamespace` is `WindowsGame1`; `AssemblyName` is `WindowsVBGame1`. Startup object is `WindowsGame1.My.MyApplication` with main form `Form1`. Build artifacts show it began as a Temporary Projects `WindowsGame1` and was later saved as `WindowsVBGame1`.
 
 ## License
 
