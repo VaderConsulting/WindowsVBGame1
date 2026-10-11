@@ -24,4 +24,4 @@ Working copy from my Historical Dev folder `WindowsVBGame1`. Visual Studio templ
 
 ## License
 
-MIT © 2026 VaderConsulting. See `LICENSE`.
+MIT © 2026 Vader Consulting. See `LICENSE`.
